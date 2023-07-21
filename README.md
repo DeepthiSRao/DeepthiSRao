@@ -1,8 +1,7 @@
-# Hi, I'm Deepthi Rao!<a href="https://codepen.io/eofnums"><a href="[https://www.linkedin.com/in/deepthi-srinidhi-rao/]"><img height="30" align="right" src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+# Hi, I'm Deepthi Rao!
+<span>[Linkedin](https://www.linkedin.com/in/deepthi-srinidhi-rao/)</span> || <span>[Portfolio](https://deepthisrao.com/)</span>
 
-Full stack web developer with prior experience in software development and hardware testing.
-
-Experience in identifying and breaking down the problem quickly and providing effective solutions. Skilled at gathering requirements, working with the team, providing solutions with quality and security.
+Full stack web developer with experience in identifying and breaking down the problem quickly and providing effective solutions. Skilled at gathering requirements, working with the team, providing solutions with quality and security.
 
 Check out my portfolio [deepthisrao.com](https://deepthisrao.com/) to view projects I have contributed to!
 
